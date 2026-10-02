@@ -7,6 +7,8 @@ One shared Spark. Chase it down, dash into carriers, intercept throws, and launc
 🎮 **Play the live game:**  
 https://sparkscramble.onrender.com
 
+> **Note:** This is the public showcase repository for Spark Scramble. The production source code and active development repository are maintained privately.
+
 ## Lobby
 
 Players can choose a display name and color, then jump into Quick Play or create/join a private room.
@@ -100,14 +102,21 @@ The web version of Spark Scramble is live.
 
 The project is also being explored further as an **Android application**.
 
-## Source availability
+## Source code and repository structure
 
-The production source code and development repository are maintained privately.
+Spark Scramble is actively developed in a separate **private GitHub repository** that contains the production source code, automated tests, development history, and ongoing implementation work.
 
-This public repository is provided as a project showcase and does **not** distribute the game's source code.
+The development repository is kept private to protect the project's source code and reduce unnecessary exposure to unauthorized copying, redistribution, or reuse as the project moves beyond its original portfolio phase.
 
----
+This public repository was created specifically as a **project showcase**. It provides:
 
-### Play Spark Scramble
+- a playable live deployment
+- gameplay and lobby screenshots
+- an overview of the game's features and technology
+- testing and development information
+- a public GitHub presence for the project
 
-🎮 https://sparkscramble.onrender.com
+It intentionally does **not** contain the game's production source code or local build instructions.
+
+🎮 **Play Spark Scramble:**  
+https://sparkscramble.onrender.com
