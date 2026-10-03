@@ -79,28 +79,13 @@ Testing covers areas such as:
 - renderer behavior
 - network-delay scenarios
 
-## AI-assisted development
-
-AI was used throughout the development process to assist with:
-
-- feature planning
-- implementation
-- debugging
-- multiplayer edge-case analysis
-- UI and presentation refinement
-- test design
-- regression analysis
-- deployment workflows
-
 The project still required hands-on product decisions, repeated multiplayer testing, verification of generated implementations, and iterative refinement.
-
-One of the biggest lessons from the project was that effective AI-assisted development depends less on simply generating code and more on being able to define intended behavior, inspect the result, challenge incorrect assumptions, test thoroughly, and iterate.
 
 ## Current status
 
 The web version of Spark Scramble is live.
 
-The project is also being explored further as an **Android application**.
+The project is also being explored further for expanded **Android and Windows versions**.
 
 ## Source code and repository structure
 
