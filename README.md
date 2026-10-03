@@ -21,12 +21,6 @@ Matches revolve around one shared Spark. Players compete for possession, throw a
 
 ![Spark Scramble gameplay](spark-scramble-gameplay.png)
 
-## About the game
-
-Spark Scramble began as an experiment in using AI as a development partner throughout an entire product workflow — not only for generating code, but also for planning mechanics, debugging behavior, reasoning through multiplayer edge cases, improving presentation, and designing tests.
-
-The result is a browser-based multiplayer game designed to work across desktop and mobile.
-
 ## Features
 
 - Real-time **2–4 player multiplayer**
