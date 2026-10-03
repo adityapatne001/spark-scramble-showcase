@@ -73,7 +73,7 @@ Testing covers areas such as:
 - renderer behavior
 - network-delay scenarios
 
-The project still required hands-on product decisions, repeated multiplayer testing, verification of generated implementations, and iterative refinement.
+Development involved hands-on product decisions, repeated multiplayer testing, implementation verification, and iterative refinement.
 
 ## Current status
 
