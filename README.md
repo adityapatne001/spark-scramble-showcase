@@ -120,3 +120,7 @@ It intentionally does **not** contain the game's production source code or local
 
 🎮 **Play Spark Scramble:**  
 https://sparkscramble.onrender.com
+
+---
+
+© 2026 Aditya Chandrashekhar Patne. All rights reserved.
