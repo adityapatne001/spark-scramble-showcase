@@ -13,13 +13,13 @@ https://sparkscramble.onrender.com
 
 Players can choose a display name and color, then jump into Quick Play or create/join a private room.
 
-![Spark Scramble lobby](spark-scramble-lobby.png)
+![Spark Scramble lobby](spark-scramble_lobby.png)
 
 ## Gameplay
 
 Matches revolve around one shared Spark. Players compete for possession, throw and intercept it, body-check carriers, and score by launching the Spark into their own launcher.
 
-![Spark Scramble gameplay](spark-scramble-gameplay.png)
+![Spark Scramble gameplay](spark-scramble_gameplay.png)
 
 ## Features
 
